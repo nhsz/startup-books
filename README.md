@@ -1,10 +1,6 @@
-<h1 align="center">
-  <br>
-    :books: startup-books
-  <br>
-</h1>
+# :books: startup-books
 
-Free Startup Culture books collection.
+> Free Startup Culture books collection.
 
 - **[`Startup Culture`](https://www.startupculturebook.com/)**
 - **[`Learning to Launch`](https://learningtolaunch.co/assets/learning-to-launch.pdf)**
